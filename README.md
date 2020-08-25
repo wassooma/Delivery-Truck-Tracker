@@ -42,6 +42,9 @@ What would you like to do?
 Please enter your choice and press <Enter>
 ```
 
+### UML
+![](https://github.com/wassooma/Delivery-Truck-Tracker/blob/master/UML1.png)
+
 * **Wasim Boughattas** - *Assignment 2 COMP 249* - [wassooma](https://github.com/wassooma)
 
 ![](https://github.com/wassooma/Delivery-Truck-Tracker/blob/master/tenor.gif)
