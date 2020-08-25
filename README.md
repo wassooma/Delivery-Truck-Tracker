@@ -12,7 +12,7 @@ Evaluation is on the implementation of the classes, the relationship (is-a vs ha
 
 ### Installing
 
-Create a new package called "part1" and import the src java files. Then, run the following java file:
+First, create a new package called "part1" and import the src java files (9 files). Then, run the following java file:
 
 ```
 src/part1/CargoTest.java
