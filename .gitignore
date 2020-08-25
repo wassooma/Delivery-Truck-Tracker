@@ -1,3 +1,11 @@
+# for part 2 (private)
 Initial_Cargoship_Info.txt
+
+# private part 2
 part2/
-bin/
+
+# bin is private
+/bin
+
+# settings is private
+/.settings
